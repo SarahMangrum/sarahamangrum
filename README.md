@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SarahMangrum
-- 👀 I’m interested in all things data science
-- 🌱 I’m currently learning all things data science
-- 💞️ I’m looking to collaborate on...you guessed it...all things data science
-- 📫 How to reach me: facebook, instagram, linkedin
+- 👀 I’m interested in all things data science and analytics
+- 🌱 I’m currently continuing my learning by focusing on developing a portfolio on projects to showcase my new skills
+- 💞️ Open to collaborate on projects to help me develop my skills and continue learning
+- 📫 How to reach me: linkedin, facebook, instagram
 
 <!---
 SarahMangrum/SarahMangrum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
